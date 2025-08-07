@@ -13,7 +13,7 @@ This repository is structured as a monorepo to streamline development and ensure
 This directory houses the core intelligence of our platform. All work related to data analysis, model training, experimentation, and evaluation resides here.
 <br>
 
-<b>Purpose:</b> To develop and iterate on the computer vision models that power our diagnostic engine.
+<br><b>Purpose:</b> To develop and iterate on the computer vision models that power our diagnostic engine.
 
 <br>
 
@@ -35,7 +35,7 @@ This directory houses the core intelligence of our platform. All work related to
 This directory contains the server-side application that exposes our ML model's predictions to the outside world. It acts as the bridge between our AI engine and the user-facing application.
 <br>
 
-<b>Purpose:</b> To build a scalable, low-latency REST API that can process image requests and return structured diagnostic data.
+<br><b>Purpose:</b> To build a scalable, low-latency REST API that can process image requests and return structured diagnostic data.
 
 <br>
 
@@ -56,7 +56,7 @@ This directory contains the server-side application that exposes our ML model's 
 This directory contains the user-facing web application. It is responsible for the user interface (UI) and user experience (UX), allowing users to upload images and view their results in a clear and intuitive way.
 <br>
 
-<b>Purpose:</b> To create a responsive, secure, and user-friendly web platform that interacts with our backend API.
+<br><b>Purpose:</b> To create a responsive, secure, and user-friendly web platform that interacts with our backend API.
 
 <br>
 
@@ -77,7 +77,7 @@ This directory contains the user-facing web application. It is responsible for t
 This directory contains all design files, mockups, and brand assets. It is the source of truth for the platform's visual identity and user experience.
 <br>
 
-<b>Purpose:</b> To house all visual design work, from initial wireframes to high-fidelity prototypes.
+<br><b>Purpose:</b> To house all visual design work, from initial wireframes to high-fidelity prototypes.
 
 <br>
 
