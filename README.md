@@ -13,18 +13,17 @@ This directory houses the core intelligence of our platform. All work related to
 <b>Purpose:</b> To develop and iterate on the computer vision models that power our diagnostic engine.
 
 <b>Contents:</b>
-
-/notebooks: Experimental Jupyter/Colab notebooks for training and analysis.
-
-/scripts: Reusable Python scripts for data processing or training.
-
-/data: Configuration files (.yaml) that define our datasets and classes.
+<ul>
+<li>/notebooks: Experimental Jupyter/Colab notebooks for training and analysis.</li>
+<li>/scripts: Reusable Python scripts for data processing or training.</li>
+<li>/data: Configuration files (.yaml) that define our datasets and classes.</li>
+</ul>
 
 <b>Primary Owners:</b>
-
-<b>Yaseen (CTO)</b>
-
-<b>Data Scientist</b>
+<ul>
+<li><b>Yaseen (CTO)</b></li>
+<li><b>Data Scientist</b></li>
+</ul>
 
 <h2>⚙️ /backend/ - API & Server Logic</h2>
 This directory contains the server-side application that exposes our ML model's predictions to the outside world. It acts as the bridge between our AI engine and the user-facing application.
@@ -32,16 +31,16 @@ This directory contains the server-side application that exposes our ML model's 
 <b>Purpose:</b> To build a scalable, low-latency REST API that can process image requests and return structured diagnostic data.
 
 <b>Contents:</b>
-
-FastAPI application source code.
-
-Model integration logic.
-
-API testing scripts and documentation.
+<ul>
+<li>FastAPI application source code.</li>
+<li>Model integration logic.</li>
+<li>API testing scripts and documentation.</li>
+</ul>
 
 <b>Primary Owner:</b>
-
-<b>AK (CEO)</b>
+<ul>
+<li><b>AK (CEO)</b></li>
+</ul>
 
 <h2>🖥️ /frontend/ - Web Application</h2>
 This directory contains the user-facing web application. It is responsible for the user interface (UI) and user experience (UX), allowing users to upload images and view their results in a clear and intuitive way.
@@ -49,16 +48,16 @@ This directory contains the user-facing web application. It is responsible for t
 <b>Purpose:</b> To create a responsive, secure, and user-friendly web platform that interacts with our backend API.
 
 <b>Contents:</b>
-
-React / Next.js source code.
-
-HTML, CSS, and component files.
-
-Frontend deployment configurations.
+<ul>
+<li>React / Next.js source code.</li>
+<li>HTML, CSS, and component files.</li>
+<li>Frontend deployment configurations.</li>
+</ul>
 
 <b>Primary Owner:</b>
-
-<b>Full Stack Developer</b>
+<ul>
+<li><b>Full Stack Developer</b></li>
+</ul>
 
 <h2>🎨 /design/ - UI/UX Assets</h2>
 This directory contains all design files, mockups, and brand assets. It is the source of truth for the platform's visual identity and user experience.
@@ -66,16 +65,16 @@ This directory contains all design files, mockups, and brand assets. It is the s
 <b>Purpose:</b> To house all visual design work, from initial wireframes to high-fidelity prototypes.
 
 <b>Contents:</b>
-
-Figma design files.
-
-User flow diagrams.
-
-Brand logos and style guides.
+<ul>
+<li>Figma design files.</li>
+<li>User flow diagrams.</li>
+<li>Brand logos and style guides.</li>
+</ul>
 
 <b>Primary Owner:</b>
-
-<b>UI/UX Designer</b>
+<ul>
+<li><b>UI/UX Designer</b></li>
+</ul>
 
 <h2>📜 License</h2>
 All code, models, and assets in this repository are proprietary and the exclusive intellectual property of DermaAI. Unauthorized use, reproduction, or distribution is strictly prohibited.
