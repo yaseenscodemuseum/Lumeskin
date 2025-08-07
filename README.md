@@ -1,18 +1,18 @@
-DermaAI - AI-Powered Skin Diagnostic Platform
+<h1>DermaAI - AI-Powered Skin Diagnostic Platform</h1>
 The official monorepo for DermaAI. This repository contains all source code and technical assets for the project, including the machine learning models, backend API, and frontend application.
 
-🚀 Project Overview
-DermaAI is a cutting-edge tool designed to provide "Precision dermatology at the speed of AI." By analyzing user-submitted images, our platform leverages advanced computer vision models to detect, classify, and provide information on various skin conditions. Our mission is to make initial skin analysis accessible, informative, and instantaneous.
+<h2>🚀 Project Overview</h2>
+DermaAI is a cutting-edge tool designed to provide "<b>Precision dermatology at the speed of AI</b>." By analyzing user-submitted images, our platform leverages advanced computer vision models to detect, classify, and provide information on various skin conditions. Our mission is to make initial skin analysis accessible, informative, and instantaneous.
 
-📂 Repository Structure
+<h2>📂 Repository Structure</h2>
 This repository is structured as a monorepo to streamline development and ensure all components are synchronized. The main directories are outlined below.
 
-🧠 /ml/ - Machine Learning & AI
+<h2>🧠 /ml/ - Machine Learning & AI</h2>
 This directory houses the core intelligence of our platform. All work related to data analysis, model training, experimentation, and evaluation resides here.
 
-Purpose: To develop and iterate on the computer vision models that power our diagnostic engine.
+<b>Purpose:</b> To develop and iterate on the computer vision models that power our diagnostic engine.
 
-Contents:
+<b>Contents:</b>
 
 /notebooks: Experimental Jupyter/Colab notebooks for training and analysis.
 
@@ -20,18 +20,18 @@ Contents:
 
 /data: Configuration files (.yaml) that define our datasets and classes.
 
-Primary Owners:
+<b>Primary Owners:</b>
 
-Yaseen (CTO)
+<b>Yaseen (CTO)</b>
 
-Data Scientist
+<b>Data Scientist</b>
 
-⚙️ /backend/ - API & Server Logic
+<h2>⚙️ /backend/ - API & Server Logic</h2>
 This directory contains the server-side application that exposes our ML model's predictions to the outside world. It acts as the bridge between our AI engine and the user-facing application.
 
-Purpose: To build a scalable, low-latency REST API that can process image requests and return structured diagnostic data.
+<b>Purpose:</b> To build a scalable, low-latency REST API that can process image requests and return structured diagnostic data.
 
-Contents:
+<b>Contents:</b>
 
 FastAPI application source code.
 
@@ -39,16 +39,16 @@ Model integration logic.
 
 API testing scripts and documentation.
 
-Primary Owner:
+<b>Primary Owner:</b>
 
-AK (CEO)
+<b>AK (CEO)</b>
 
-🖥️ /frontend/ - Web Application
+<h2>🖥️ /frontend/ - Web Application</h2>
 This directory contains the user-facing web application. It is responsible for the user interface (UI) and user experience (UX), allowing users to upload images and view their results in a clear and intuitive way.
 
-Purpose: To create a responsive, secure, and user-friendly web platform that interacts with our backend API.
+<b>Purpose:</b> To create a responsive, secure, and user-friendly web platform that interacts with our backend API.
 
-Contents:
+<b>Contents:</b>
 
 React / Next.js source code.
 
@@ -56,16 +56,16 @@ HTML, CSS, and component files.
 
 Frontend deployment configurations.
 
-Primary Owner:
+<b>Primary Owner:</b>
 
-Full Stack Developer
+<b>Full Stack Developer</b>
 
-🎨 /design/ - UI/UX Assets
+<h2>🎨 /design/ - UI/UX Assets</h2>
 This directory contains all design files, mockups, and brand assets. It is the source of truth for the platform's visual identity and user experience.
 
-Purpose: To house all visual design work, from initial wireframes to high-fidelity prototypes.
+<b>Purpose:</b> To house all visual design work, from initial wireframes to high-fidelity prototypes.
 
-Contents:
+<b>Contents:</b>
 
 Figma design files.
 
@@ -73,9 +73,9 @@ User flow diagrams.
 
 Brand logos and style guides.
 
-Primary Owner:
+<b>Primary Owner:</b>
 
-UI/UX Designer
+<b>UI/UX Designer</b>
 
-📜 License
+<h2>📜 License</h2>
 All code, models, and assets in this repository are proprietary and the exclusive intellectual property of DermaAI. Unauthorized use, reproduction, or distribution is strictly prohibited.
