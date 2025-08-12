@@ -1,9 +1,9 @@
-<h1>DermaAI - AI-Powered Skin Diagnostic Platform</h1>
-The official monorepo for DermaAI. This repository contains all source code and technical assets for the project, including the machine learning models, backend API, and frontend application.
+<h1>Lumeskin - AI-Powered Skin Diagnostic Platform</h1>
+The official monorepo for Lumeskin. This repository contains all source code and technical assets for the project, including the machine learning models, backend API, and frontend application.
 <br>
 
 <h2>🚀 Project Overview</h2>
-DermaAI is a cutting-edge tool designed to provide "<b>Precision dermatology at the speed of AI</b>." By analyzing user-submitted images, our platform leverages advanced computer vision models to detect, classify, and provide information on various skin conditions. Our mission is to make initial skin analysis accessible, informative, and instantaneous.
+Lumeskin is a cutting-edge tool designed to provide "<b>Precision dermatology at the speed of AI</b>." By analyzing user-submitted images, our platform leverages advanced computer vision models to detect, classify, and provide information on various skin conditions. Our mission is to make initial skin analysis accessible, informative, and instantaneous.
 <br>
 
 <h2>📂 Repository Structure</h2>
@@ -95,4 +95,4 @@ This directory contains all design files, mockups, and brand assets. It is the s
 </ul>
 
 <h2>📜 License</h2>
-All code, models, and assets in this repository are proprietary and the exclusive intellectual property of DermaAI. Unauthorized use, reproduction, or distribution is strictly prohibited.
+All code, models, and assets in this repository are proprietary and the exclusive intellectual property of Lumeskin. Unauthorized use, reproduction, or distribution is strictly prohibited.
